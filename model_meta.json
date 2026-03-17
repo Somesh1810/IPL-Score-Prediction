@@ -1,0 +1,34 @@
+{
+  "best_model": "Ridge",
+  "features": [
+    "batting_team",
+    "bowling_team",
+    "overs",
+    "current_score",
+    "wickets",
+    "runs_last5",
+    "wickets_last5",
+    "run_rate",
+    "wickets_left",
+    "balls_remaining",
+    "rr_last5",
+    "pressure_index"
+  ],
+  "metrics": {
+    "MAE": 11.69,
+    "RMSE": 15.42,
+    "CV_MAE": 11.48
+  },
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Capitals",
+    "Gujarat Titans",
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants",
+    "Mumbai Indians",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Royal Challengers Bangalore",
+    "Sunrisers Hyderabad"
+  ]
+}
