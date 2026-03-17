@@ -108,7 +108,7 @@ streamlit run app.py
 
 If deployed on Streamlit Cloud, add your live link here:
 
-👉 https://your-app-link.streamlit.app
+👉 https://ipl-score-prediction-hjutegsfxkmdhnvgosr7sb.streamlit.app/
 
 ## Sample Prediction Output
 Predicted Final Score: 178 - 185
